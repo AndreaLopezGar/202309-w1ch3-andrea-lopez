@@ -1,6 +1,16 @@
+footer {
+  background-color: #1d5087;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.summary {
+  background-color: #d09d72;
+}
+
 body {
   font-family: Arial, sans-serif;
-  background-color: #f1f1f1;
 }
 
 header {
@@ -27,33 +37,4 @@ header h2 {
 img {
   max-width: 100%;
   height: auto;
-}
-
-form div {
-  background-color: #d1bead;
-  padding: 10px;
-}
-
-footer {
-  background-color: #1d5087;
-  color: #fff;
-  text-align: center;
-  padding: 10px;
-}
-
-.summary {
-  background-color: #d09d72;
-}
-
-.list {
-  background-color: #d09d72;
-}
-
-.list div:hover {
-  color: orange;
-}
-
-span {
-  float: right;
-  justify-self: right;
 }
