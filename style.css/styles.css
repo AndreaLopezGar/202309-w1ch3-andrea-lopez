@@ -49,6 +49,10 @@ footer {
   background-color: #d09d72;
 }
 
+.list div:hover {
+  color: orange;
+}
+
 span {
   float: right;
   justify-self: right;
